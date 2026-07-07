@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Obsidian local/cache files
+.trash/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Large raw downloads can be added manually if needed
+# 00-Inbox/Attachments/
+# 00-Inbox/Downloaded/*.pdf
